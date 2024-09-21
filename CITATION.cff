@@ -2,7 +2,7 @@
   author = {Yiyu Li},
   doi = {},
   month = {},
-  title = {{Support Tau-Tilting Pair GAP Programs}},
+  title = {{Support Tau-Tilting Pair and its F-polynomials GAP Programs}},
   url = {https://github.com/Iyuli/2-CyclicJacAlgRep-},
   version = {0.0.1},
   year = {2024}
